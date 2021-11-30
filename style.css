@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    }
+h1{
+    width: 20px;
+    font-family: fantasy;
+}
+#about{
+    background-color: darkorchid;
+}
+#bio{
+    background-color: fuchsia;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
